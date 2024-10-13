@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Couleur de fond douce */
+}
+header {
+    background-image: url('public/images/maroc.jpg'); /* Remplace par une image du Maroc */
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+}
+h2 {
+    color: #b22234; /* Couleur rouge du drapeau */
+    margin-top: 30px;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+}
